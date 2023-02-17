@@ -1,12 +1,11 @@
 <script lang="ts">
-  import icon from "./assets/favicon.ico";
   import RandomText from "./lib/RandomText.svelte";
 </script>
 
 <main>
   <div>
     <a href="https://www.bluequantum.top" target="_blank" rel="noreferrer">
-      <img src={icon} class="logo" alt="Avator" />
+      <img src="/favicon.ico" class="logo" alt="Avator" />
     </a>
   </div>
   <h1>
