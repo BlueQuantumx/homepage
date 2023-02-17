@@ -5,6 +5,7 @@
  */
 
 import { Genea } from "./genea";
+
 const alphabetArr = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'., ".split('')
 const alphabet = (() => {
   const alphabet = {}
@@ -79,4 +80,4 @@ function toChars(gene) {
   return str
 }
 
-export default run
+export { run }
