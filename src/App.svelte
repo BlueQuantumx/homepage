@@ -16,13 +16,18 @@
   </h2>
 
   <p>
-    Find me at <a
+    <a
       class="card"
       href="https://github.com/BlueQuantumx"
       target="_blank"
       rel="noreferrer">GitHub</a
     >
-    ...
+    <a
+      class="card"
+      href="https://blog.bluequantum.top"
+      target="_blank"
+      rel="noreferrer">Blog</a
+    >
   </p>
 </main>
 
