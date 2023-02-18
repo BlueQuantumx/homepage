@@ -2,6 +2,7 @@
   import { run } from "./gen";
 
   export let initialText: string;
+  export let duration: number;
 
   let isRunning = false;
   let currentText = "";
@@ -10,11 +11,12 @@
     if (isRunning) return;
     const history = run(initialText).history;
     isRunning = true;
+    console.log(initialText, history.length);
     history.forEach((text, i) => {
       setTimeout(() => {
         currentText = text;
         if (i + 1 === history.length) isRunning = false;
-      }, i * 30);
+      }, i / history.length * duration);
     });
   }
 

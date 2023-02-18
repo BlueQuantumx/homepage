@@ -9,10 +9,10 @@
     </a>
   </div>
   <h1>
-    <RandomText initialText="BlueQuantum" />
+    <RandomText initialText="BlueQuantum" duration={3500} />
   </h1>
   <h2>
-    <RandomText initialText="I won't ignore my life anymore." />
+    <RandomText initialText="I won't ignore my life anymore." duration={3500} />
   </h2>
 
   <p>
