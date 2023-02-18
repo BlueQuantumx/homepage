@@ -24,3 +24,9 @@
 <div on:click={play} on:keypress={play}>
   {currentText}
 </div>
+
+<style lang="less">
+  div {
+    font-family: "Courier New", Courier, monospace;
+  }
+</style>
