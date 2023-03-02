@@ -5,7 +5,7 @@
 <main>
   <div>
     <a href="https://www.bluequantum.top" target="_blank" rel="noreferrer">
-      <img src="/favicon.ico" class="logo" alt="Avator" />
+      <img src="/favicon.ico" class="logo" alt="Avatar" />
     </a>
   </div>
   <h1>
