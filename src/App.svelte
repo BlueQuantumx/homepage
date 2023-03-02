@@ -24,9 +24,21 @@
     >
     <a
       class="card"
+      href="https://gitee.com/bluequantum"
+      target="_blank"
+      rel="noreferrer">Gitee</a
+    >
+    <a
+      class="card"
       href="https://blog.bluequantum.top"
       target="_blank"
       rel="noreferrer">Blog</a
+    >
+    <a
+      class="card"
+      href="https://blog.bluequantum.top/encrypass"
+      target="_blank"
+      rel="noreferrer">Encrypass</a
     >
   </p>
 </main>
