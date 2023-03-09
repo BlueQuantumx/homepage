@@ -36,7 +36,7 @@
     >
     <a
       class="card"
-      href="https://blog.bluequantum.top/encrypass"
+      href="/encrypass"
       target="_blank"
       rel="noreferrer">Encrypass</a
     >
